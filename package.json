@@ -1,0 +1,9 @@
+{
+    "name": "twoenglishes",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "2.4.6",
+        "jade": "0.16.1",
+        "stylus": "0.16.0"
+    }
+}
